@@ -1,0 +1,7 @@
+SELECT * FROM Produtos
+ORDER BY Preco
+LIMIT 2;
+
+SELECT * FROM Produtos
+ORDER BY Preco
+LIMIT 2 OFFSET 1
