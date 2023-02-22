@@ -1,0 +1,1 @@
+SELECT preco * 5 FROM produtos.
